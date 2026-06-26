@@ -1,6 +1,6 @@
 import RegisterForm from "@/component/RegisterForm";
 
-export default function Home() {
+export default function Register() {
   return (
     <div>
       <RegisterForm></RegisterForm>
